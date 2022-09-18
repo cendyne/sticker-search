@@ -1,0 +1,9 @@
+name = "sticker-search"
+main = "src/index.ts"
+compatibility_date = "2022-09-13"
+account_id = "d6db7ab3f378dbde1a03465b4fa267a6"
+route = "stickers.cendyne.app/*"
+
+kv_namespaces = [
+  { binding = "STICKERS", id = "b3e52b8e219f431484a28359d6d5efb3", preview_id="fde4113cde1f4294a431cd2238c3ded7" }
+]
